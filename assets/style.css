@@ -298,9 +298,6 @@ img {
   object-fit: cover;
 }
 
-.card-image.frame-position-center {
-  object-position: 50% 100%;
-}
 
 .card-description {
   line-height: 2.8rem;
